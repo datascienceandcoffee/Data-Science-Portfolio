@@ -7,3 +7,4 @@ Test Test Test
 Hi Hi hI
 
 ###
+![Test] (images/avatar.jpg)
